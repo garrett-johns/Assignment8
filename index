@@ -29,3 +29,78 @@
             font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         }
     </style>
+</head>
+<!-- all style elements inhereted from the body style assigned above-->
+<body>
+    <!-- This is cover art for the song Cardinal by Mt Joy-->
+    <div id="cardinalmtjoy" class="container">
+        <h1>Cardinal</h1>
+        <h2>Mt Joy</h2>
+        <img src="cardinalmtjoy.jpg" height="500" width="500" alt="This is Why we Fight Artwork">
+    </div>
+</div>
+    <!-- this division is a music video embedded from Youtube-->
+    <div id="video" class="container">
+        <h1>Music Video</h1>
+        <iframe width="560" height="315" src="https://www.youtube.com/watch?v=KGL7JgxgTp8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+ </div>
+    <!-- this division uses the lyric class-->
+    <div id="lyrics" class="lyrics">
+        <h1>Lyrics</h1>
+<p>Red cardinals in the white snow<br />
+They got too high to fly home for the winter<br />
+And I had a roommate once, he got so high<br />
+He couldn't go out at night<br />
+So, he found love on the internet
+<p>
+<p>And it's freezing in Pennsylvania<br />
+And the rest of the birds are Turjks and Kaicos<br />
+And it's like a truth commercial, but we feel bad<br />
+So, we get stoned and do snow angels
+<p>
+<p>Ooh, oh, oh, ooh, ooh<br />
+<p>
+<p>So, we bought a broke down bus<br />
+And painted it green<br />
+And we danced in the parking lot<br />
+Under the shadow of '95
+<p>
+<p>And all of my favorite people<br />
+They don't march to the beat of your drum<br />
+They just keep on keeping on
+<p>
+<p>And whatever you're supposed to be<br />
+Whatever that's supposed to mean<br />
+I just wanted you to know<br />
+That you don't have to come clean to me
+<p>
+<p>Yeah, everything's exact<br />
+Everything's exactly where it needs to be<br />
+I just wanted you to know<br />
+That you don't have to come clean to me
+<p>
+<p>Yeah, everything's exact<br />
+Everything's exact<br />
+Everything's exactly where it needs to be
+<p>
+<p>Wolves are circling<br />
+Black ties suit them<br />
+The wolves start circling<br />
+Black ties suit them
+<p>
+<p>So, we light one up, 'cause it's in our blood<br />
+It's in our blood, ah
+<p>
+ </div>
+    <div id="copyright" class="container">
+        <h1>copyright &copy;</h1>
+        <p>I own none of this material. This is all owned by Mt Joy</p>
+    </div>
+</body>
+</html>
+<p>Wolves start circling, black ties suit them<br />
+Wolves start circling, black ties suit them<br />
+Wolves start circling, black ties suit them, Lord<br />
+And they're not like us
+<p>
